@@ -72,7 +72,7 @@ namespace HotelListing.API.Data
                 {
                     Id = 4,
                     Name = "dom",
-                    Address = "telangana",
+                    Address = "tel",
                     Rating = 10,
                     CountryId = 4
 
